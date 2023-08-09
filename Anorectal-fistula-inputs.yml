@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/anorectal-fistula---primary.py
+inputModule3:
+  class: File
+  path: python/anorectal-fistula-laying---primary.py
+inputModule4:
+  class: File
+  path: python/anorectal-fistula-excision---primary.py
+inputModule5:
+  class: File
+  path: python/anorectal-fistula-fissure---primary.py
+inputModule6:
+  class: File
+  path: python/anorectal-fistula-fistulain-ano---primary.py
+inputModule7:
+  class: File
+  path: python/fistula---primary.py
+inputModule8:
+  class: File
+  path: python/anorectal-fistula-nos---primary.py
+inputModule9:
+  class: File
+  path: python/anorectal-fistula-procedure---primary.py
+inputModule10:
+  class: File
+  path: python/anorectal-fistula---secondary.py
+inputModule11:
+  class: File
+  path: python/anorectal-fistula-laying---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
